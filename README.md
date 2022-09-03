@@ -1,4 +1,4 @@
 # portfolio-clone-bootstrap-v5-sass
-Portfolio template clone sử dụng Bootstrap 5 và SASS
-![image](https://user-images.githubusercontent.com/54978467/188273829-bf5a837d-4754-4f49-8346-26cc836e1813.png)
-![image](https://user-images.githubusercontent.com/54978467/188273818-ae9958ae-fdd4-4eff-832a-1bec463580e0.png)
+# Portfolio template clone sử dụng Bootstrap 5 và SASS
+
+![screencapture-127-0-0-1-5500-index-html-2022-09-03-21_06_34](https://user-images.githubusercontent.com/54978467/188274102-c5995fa7-51d5-472d-a7b8-5346eb758fed.png)
