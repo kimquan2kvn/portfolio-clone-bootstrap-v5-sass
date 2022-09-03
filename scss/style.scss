@@ -1,0 +1,29 @@
+// $primary: #ff0000
+
+// .test-1 {
+//     color: $primary;
+// }
+
+@use 'custom';
+
+// IMPORT THE COMPONENTS
+@use 'components/animation';
+@use 'components/buttons';
+@use 'components/mixins';
+@use 'components/typography';
+
+// IMPORT THE SECTIONS
+@use 'sections/navbar';
+@use 'sections/intro-section';
+@use 'sections/companies.scss';
+@use 'sections/services.scss';
+@use 'sections/testtimonials';
+@use 'sections/faq';
+@use 'sections/portfolio';
+@use 'sections/get-started';
+@use 'sections/foter';
+
+
+
+
+
